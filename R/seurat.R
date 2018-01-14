@@ -7,9 +7,9 @@
 #' to construct a Seurat object is an expression matrix (rows are genes, columns are cells), which
 #' should be log-scale
 #'
-#'
 #' Each Seurat object has a number of slots which store information. Key slots to access
 #' are listed below.
+#'
 #'
 #'@section Slots:
 #'  \describe{
