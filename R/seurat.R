@@ -10,7 +10,6 @@
 #' Each Seurat object has a number of slots which store information. Key slots to access
 #' are listed below.
 #'
-#'
 #'@section Slots:
 #'  \describe{
 #'    \item{\code{data}:}{\code{"data.frame"}, The expression matrix (log-scale) }
